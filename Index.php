@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<link rel="icon" href="https://i.hizlireşim.com/msbx2p8.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacked by 3jd3rh4ck3r</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 90vh;
+            background: url('https://i.hizlireşim.com/msbx2p8.png') no-repeat center center / cover;
+            color: #fff000;
+            text-shadow: 2px 2px 5px black;
+        }
+        h1 {
+            font-size: 60px;
+            animation: glitch 1s infinite;
+        }
+        @keyframes glitch {
+            0% { text-shadow: 2px 2px 5px black; }
+            50% { text-shadow: -2px -2px 5px black; }
+            100% { text-shadow: 2px 2px 5px black; }
+        }
+        footer {
+            position: absolute;
+            bottom: 10px;
+            width: 100%;
+            text-align: center;
+            font-size: 16px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hacked by 3jd3rh4ck3r</h1>
+    <footer> hello admin system hacked</footer>
+</body>
+</html>
