@@ -1,1 +1,1 @@
-Sadede kendim için editledigim indek
+Sadede kendim için editledigim indeks
